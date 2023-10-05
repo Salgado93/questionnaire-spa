@@ -37,7 +37,7 @@ function Quiz() {
                         ))}
                     </div>
                     <div className='continue-button' >
-                        <button onClick={handleContinueClick}>Continuar</button>
+                        <button onClick={handleContinueClick}>Siguiente</button>
                     </div>
                 </>
             ) : <Summary />}
