@@ -1,0 +1,15 @@
+.quiz-summary{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quiz-summary-question{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.summary-button{
+    padding-top: 24px;
+}
